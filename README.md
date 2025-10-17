@@ -67,7 +67,7 @@ python main.py
 
 **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/discord-moderation-bot.git
+git clone https://https://github.com/RDXFGXY1/discord-moderation-bot.git
 cd discord-moderation-bot
 ```
 Translation: Download the code and go into that folder.
